@@ -1,4 +1,14 @@
 <div align="center">
+Secrets file at `./config/config.ini` has been removed from the git repository. To run this code yourself, create a new config file with `mkdir config && touch config/config.ini`.
+
+Add the following text to `config.ini` replacing the placeholders with actual values:
+
+```
+[Telegram API credentials]
+api_id = PLACEHOLDER
+api_hash = PLACEHOLDER
+phone = PLACEHOLDER
+```
 
 # **Telegram-API**: `a Python-based open-source tool for Telegram`
 
