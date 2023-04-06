@@ -19,3 +19,6 @@ chatgpt.py
 
 # secrets
 config/config.ini
+
+# virtual env
+env/
